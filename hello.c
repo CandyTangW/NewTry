@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("Hello GitHub!I'm GitKraken");
+    printf("Modified this file");
     return 0;
 }
